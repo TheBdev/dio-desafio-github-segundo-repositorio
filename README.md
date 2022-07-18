@@ -1,5 +1,6 @@
-# Desafio de Projeto sobre Git/GitHub da DIO
+# Desafio de Projeto sobre Git/GitHub da DIO :rooster:
 Repositório criado para o Desafio de Projeto sobre Git/GitHub
 
 ## Links úteis
-<a href="https://www.markdownguide.org/basic-syntax/" target="_blank">Sixtaxe Básica Markdown</a>
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
