@@ -1,2 +1,2 @@
-Dê um git clone no Git Bash + espaço e cole o link da URL do repositório do GitHub que deseja clonar. 
+Dê um git clone no Git Bash + espaço e cole a URL do repositório do GitHub que deseja clonar. 
 Depois, aperte a tecla "enter" e pronto.
